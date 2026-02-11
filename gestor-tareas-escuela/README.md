@@ -1,15 +1,15 @@
-# 📚 Sistema Gestor de Tareas para la Escuela
+# Sistema Gestor de Tareas para la Escuela
 
 **Autor:** Angel Andres Mendoza Hurtado  
 **Matrícula:** 367862  
-**Materia:** Ingeniería de Software - Proyectos Profesionales II  
+**Materia:** Proyectos Profesionales II  
 **Fecha de Inicio:** 27 de Enero, 2026
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 Sistema web para gestión de tareas académicas diseñado para estudiantes universitarios y de nivel medio superior. Permite registrar, consultar, modificar y dar seguimiento a tareas, proyectos y exámenes de manera eficiente.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Facilitar la organización de actividades académicas
 - Proporcionar una interfaz intuitiva y fácil de usar
@@ -17,7 +17,7 @@ Sistema web para gestión de tareas académicas diseñado para estudiantes unive
 - Ofrecer filtros para visualizar tareas según su estado
 - Mejorar la productividad estudiantil
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Backend
 - **Lenguaje:** Python 3.11+
@@ -39,7 +39,7 @@ Sistema web para gestión de tareas académicas diseñado para estudiantes unive
 - **Gestión de Proyecto:** Monday.com + Trello
 - **Testing:** pytest (Backend), Jest (Frontend)
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 gestor-tareas-escuela/
@@ -62,7 +62,7 @@ gestor-tareas-escuela/
 └── README.md             # Este archivo
 ```
 
-## ✨ Funcionalidades Principales
+## Funcionalidades Principales
 
 ### Requerimientos Funcionales Implementados
 
@@ -82,16 +82,16 @@ gestor-tareas-escuela/
 - **RNF-05:** Mantenibilidad - Código modular y documentado
 - **RNF-06:** Accesibilidad - Cumple estándares WCAG 2.1 AA
 
-## 🗓️ Cronograma de Desarrollo
+## Cronograma de Desarrollo
 
-### Fase 1: Preparación y Diseño (27 enero - 9 febrero) ✅
+### Fase 1: Preparación y Diseño (27 enero - 9 febrero)
 - [x] Configuración del ambiente de desarrollo
 - [x] Creación del repositorio GitHub
 - [x] Configuración entorno virtual Python
 - [x] Diseño detallado de base de datos
 - [x] Configuración proyecto React con Vite
 
-### Fase 2: Desarrollo Backend (10 febrero - 2 marzo) 🔄
+### Fase 2: Desarrollo Backend (10 febrero - 2 marzo)
 - [ ] Implementación de modelos de datos (ORM)
 - [ ] Desarrollo del Repository Pattern
 - [ ] Implementación de capa de servicios
@@ -120,7 +120,7 @@ gestor-tareas-escuela/
 - [ ] Despliegue en servidor (Vercel + Railway)
 - [ ] Documentación técnica final y manual
 
-## 🚀 Instalación y Configuración
+## Instalación y Configuración
 
 ### Requisitos Previos
 - Python 3.11 o superior
@@ -131,7 +131,7 @@ gestor-tareas-escuela/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/gestor-tareas-escuela.git
+git clone https://github.com/AngelHurtado04/gestor-tareas-escuela.git
 cd gestor-tareas-escuela/backend
 
 # Crear entorno virtual
@@ -165,7 +165,7 @@ npm install
 npm run dev
 ```
 
-## 📊 Base de Datos
+## Base de Datos
 
 ### Modelo de Datos Principal
 
@@ -190,7 +190,7 @@ npm run dev
 
 Relación: 1 Usuario → N Tareas
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Backend tests
@@ -202,22 +202,22 @@ cd frontend
 npm test
 ```
 
-## 📝 Documentación Adicional
+## Documentación Adicional
 
 - [Documento de Requerimientos](docs/requerimientos.md)
 - [Guía de Arquitectura](docs/arquitectura.md)
 - [Manual de Usuario](docs/manual-usuario.md)
 - [Plan de Construcción](docs/plan-construccion.md)
 
-## 🤝 Contribuciones
+## Contribuciones
 
 Este es un proyecto académico individual para la materia de Proyectos Profesionales II.
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es de uso académico exclusivamente.
 
-## 📧 Contacto
+## Contacto
 
 **Angel Andres Mendoza Hurtado**  
 Matrícula: 367862  
@@ -226,5 +226,5 @@ Facultad de Ingeniería
 
 ---
 
-**Estado del Proyecto:** 🔄 En Desarrollo (Fase 2)  
+**Estado del Proyecto:** En Desarrollo (Fase 2)  
 **Última Actualización:** 10 de Febrero, 2026
